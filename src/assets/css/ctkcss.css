@@ -1,0 +1,11 @@
+:root {
+    --bg-color: #1e1e1e;
+    --bg-color-a-6: #1e1e1e99;
+}
+body {
+    background-color: var(--bg-color);
+}
+
+.trans-color-6 {
+    background-color: var(--bg-color-a-6) !important;
+}
